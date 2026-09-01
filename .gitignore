@@ -1,0 +1,13 @@
+# Obsidian per-device state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Local agent plugin state
+.obsidian/plugins/agent-client/
+
+# Obsidian trash and operating-system files
+.trash/
+.DS_Store
+Thumbs.db
+desktop.ini
